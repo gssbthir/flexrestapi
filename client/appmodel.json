@@ -16,6 +16,9 @@
             },
             "details": {
               "type": "action"
+            },
+            "email": {
+              "type": "string"
             }
           }
         },
