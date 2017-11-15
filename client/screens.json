@@ -1,0 +1,35 @@
+{
+  "id": "app",
+  "name": "FlexAPIOnly",
+  "startScreen": "app.result",
+  "screens": [
+    {
+      "id": "menu",
+      "name": "menu",
+      "sourceAppId": "_blank",
+      "sourceScreenId": "app.menu"
+    },
+    {
+      "id": "multiselect",
+      "name": "multiselect",
+      "sourceAppId": "_blank",
+      "sourceScreenId": "app.multiselect"
+    },
+    {
+      "id": "result",
+      "name": "result",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank",
+      "model": "result"
+    },
+    {
+      "id": "details",
+      "name": "details",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank",
+      "model": "details"
+    }
+  ],
+  "sourceAppId": "_blank",
+  "sourceScreenId": "app"
+}

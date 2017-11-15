@@ -1,0 +1,40 @@
+{
+  "result": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "list": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
+            },
+            "details": {
+              "type": "action"
+            }
+          }
+        },
+        "update": {
+          "type": "none"
+        }
+      }
+    }
+  },
+  "details": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "sitedetails": {
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
+      }
+    }
+  }
+}
