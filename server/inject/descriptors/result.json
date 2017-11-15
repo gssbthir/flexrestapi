@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "isResult": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "exists"
+    }
+  },
+  "connect": [
+    {
+      "match": [
+        "isResult"
+      ],
+      "event": "displayresult"
+    }
+  ]
+}
