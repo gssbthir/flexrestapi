@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "sitedetails": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "email": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "username": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "phone": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "website": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
