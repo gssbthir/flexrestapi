@@ -43,6 +43,15 @@
         "update": {
           "type": "none"
         }
+      },
+      "username": {
+        "type": "string"
+      },
+      "phone": {
+        "type": "string"
+      },
+      "website": {
+        "type": "string"
       }
     }
   },
