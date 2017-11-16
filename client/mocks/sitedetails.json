@@ -1,1 +1,19 @@
-{}
+{
+  "sitedetails": [
+    {
+      "title": "Space",
+      "value": "740",
+      "measure": "Sq.ft"
+    },
+    {
+      "title": "Headcount",
+      "value": "30000",
+      "measure": "k"
+    },
+    {
+      "title": "Machines",
+      "value": "230",
+      "measure": "k"
+    }
+  ]
+}
