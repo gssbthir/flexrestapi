@@ -39,7 +39,10 @@
         }
       },
       "Email": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       }
     }
   },
