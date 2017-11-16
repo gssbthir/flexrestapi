@@ -42,5 +42,28 @@
         "type": "string"
       }
     }
+  },
+  "sitedetails": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "sitedetails": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "value": {
+              "type": "string"
+            },
+            "measure": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }
