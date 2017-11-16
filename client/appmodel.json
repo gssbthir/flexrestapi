@@ -38,7 +38,7 @@
           "type": "none"
         }
       },
-      "Email": {
+      "email": {
         "type": "string",
         "update": {
           "type": "none"
