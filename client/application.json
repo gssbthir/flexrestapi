@@ -5,9 +5,10 @@
   "previewToken": "37139801",
   "uiCommonVersion": "5.0.3",
   "creatorId": "admin",
-  "id": "flexapionly",
-  "previewImageURL": "/previews/37139801-flexapionly/app/blank.png",
+  "id": "flexrestapi",
+  "previewImageURL": "/previews/37139801-flexrestapi/app/result.png",
   "isVersioned": true,
   "creatorName": "PowWow Admin",
-  "sdks": []
+  "sdks": [],
+  "githubRepo": "https://github.com/gssbthir/flexrestapi"
 }
