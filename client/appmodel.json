@@ -45,7 +45,10 @@
         }
       },
       "username": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "phone": {
         "type": "string"
