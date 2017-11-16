@@ -51,7 +51,10 @@
         }
       },
       "phone": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "website": {
         "type": "string"
