@@ -33,7 +33,8 @@
       "id": "sitedetail",
       "name": "sitedetail",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "sitedetails"
     }
   ],
   "sourceAppId": "_blank",
