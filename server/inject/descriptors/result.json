@@ -14,12 +14,6 @@
         "isResult"
       ],
       "event": "displayresult"
-    },
-    {
-      "match": [
-        "isResult"
-      ],
-      "event": "displayres"
     }
   ]
 }
