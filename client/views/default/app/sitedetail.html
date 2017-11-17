@@ -11,34 +11,5 @@
                 <div data-comp-id="text.3" ng-bind="item.measure">Some text</div>
             </div>
         </div>-->
-        <ion-list>
-            <ion-item>
-                <ion-range [(ngmodel)]="singleValue" color="danger" pin="true"></ion-range>
-            </ion-item>
-            <ion-item>
-                <ion-range [(ngmodel)]="saturation" color="secondary" max="200" min="-200">
-                    <ion-label range-left="">-200</ion-label>
-                    <ion-label range-right="">200</ion-label>
-                </ion-range>
-            </ion-item>
-            <ion-item>
-                <ion-range [(ngmodel)]="brightness" max="80" min="20" step="2">
-                    <ion-icon name="sunny" range-left="" small=""></ion-icon>
-                    <ion-icon name="sunny" range-right=""></ion-icon>
-                </ion-range>
-            </ion-item>
-            <ion-item>
-                <ion-label>step=100, snaps,
-                </ion-label>
-                <ion-range [(ngmodel)]="singleValue4" color="secondary" max="2000" min="1000"
-                    snaps="true" step="100"></ion-range>
-            </ion-item>
-            <ion-item>
-                <ion-label>dual, step=3, snaps,
-                </ion-label>
-                <ion-range [(ngmodel)]="dualValue2" dualknobs="true" max="72" min="21"
-                    snaps="true" step="3"></ion-range>
-            </ion-item>
-        </ion-list>
     </ion-content>
 </ion-view>
