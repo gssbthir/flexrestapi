@@ -11,6 +11,7 @@
   "connect": [
     {
       "match": [
+        "isResult",
         "isResult"
       ],
       "event": "displayresult"
