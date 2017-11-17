@@ -16,7 +16,9 @@
       "event": "displayresult"
     },
     {
-      "match": [],
+      "match": [
+        "isResult"
+      ],
       "event": "displayres"
     }
   ]
