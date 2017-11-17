@@ -15,6 +15,10 @@
         "isResult"
       ],
       "event": "displayresult"
+    },
+    {
+      "match": [],
+      "event": "displayres"
     }
   ]
 }
